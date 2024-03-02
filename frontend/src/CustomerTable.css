@@ -1,18 +1,18 @@
 .customer-table {
     margin-top: auto;
-    border-collapse: collapse; /* Collapse border spacing */
-    width: 80%; /* Set table width to 100% of its container */
+    border-collapse: collapse; 
+    width: 80%; 
   }
   
   .customer-table th, .customer-table td {
-    border: 2px solid #0f0101; /* Add border to table cells */
-    padding: 3px; /* Add padding to table cells */
+    border: 2px solid #0f0101; 
+    padding: 3px; 
     text-align: center;
-     /* Align text to the left within cells */
+     
   }
   
   .customer-table th {
     background-color: #ebebed;
- /* Set background color for table header cells */
+ 
   }
   
